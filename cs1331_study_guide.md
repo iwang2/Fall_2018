@@ -1,3 +1,15 @@
+# Java Itself
+Good Things: cross-platform deployability and automatic garbage collection (no memory management issues)
+
+### Platform Components
+1. Java programming language - to write `.java` source files
+2. JVM (Java Virtual Machine) - runs compiled source files (`.class` bytecode files, which can be run on any machine with the JVM)
+3. Java standard library
+
+### `public static void main (String[] args)`
+A main method must be included for a class to be executeable.
+
+---
 # Arrays
 - dynamically allocated
 - fixed type and number of elements
