@@ -10,6 +10,134 @@ Good Things: cross-platform deployability and automatic garbage collection (no m
 A main method must be included for a class to be executeable.
 
 ---
+# Classes
+### Abstraction
+Capturing the essential properties and behaviors of a concept by ignoring irrelevant details.
+- **Process abstraction:** group the operations of a process in a subprogram and expose only essential elements to clients through subprogram signature (e.g. function name and parameters)
+- **Data abstraction:** encapsulation of data with defined operations
+
+### ADT
+An ADT is *abstract* because the data and operations of the ADT are defined independently of how they are implemented. It *encapsulates* the data and operations.
+
+### Java
+Provides language support for defining ADTs - classes.  
+A class is a blueprint for objects, and contains:
+- **instance variables:** the state of data of an object
+- **methods:** operations defined on objects of the class
+
+Objects are *instantiated* or *constructed* from a class. 
+
+#### For Example:
+```java
+public class Complex {
+    // data
+    private double real;
+    private double imaginary;
+    
+    // operations
+    public Complex(double aReal, double anImaginary) {
+        real = aReal;
+        imaginary = anImaginary;
+    }
+    
+    public Complex plus (Complex other) {
+        double resultReal = this.real + other.real;
+        double resultImaginary = this.imaginary + other.imaginary;
+        return new Complex(resultReal, resultImaginary);
+    }
+}
+```
+
+### Reference Variable
+These have one of two values:
+- the address of an object in memory (e.g. and instance of Complex)
+- `null`, which references nothing
+
+```java
+Complex a = new Complex(1.0, 2.0);
+Complex b = new Complex(3.0, 4.0);
+Complex c = a.plus(b);
+```
+`a`, `b`, and `c` are reference variables of type `Complex`. 
+
+### Constructors
+Calling `new` invokes the constructor, instantiating an object and storing in a given variable. 
+```java
+Complex a = new Complex(1.0, 2.0);
+```
+Looks something like this:
+```
+ ___         _________________
+|_a_| ----> |_____Complex_____|
+            | real = 1.0      |
+            |_imaginary = 2.0_|
+```
+
+### Classes
+With the `Complex` class, users can write code to manipulate `Complex` objects using only the public methods of the class.
+
+A class file contains:
+- import statements
+- class declaration
+- static variable definitions
+- instance variable definitions
+- constructors
+- public methods
+- private helper methods
+
+### Class Invariants
+A condition that must hold for all instances of a class in order for them to be considered valid.
+
+Invariants for the `Card` class:
+- `rank` must be one of `{"2", "3", "4", "5", "6", "7", "8", "9", "10", "jack", "queen", "king", "ace}`
+- `suit` must be one of `{"diamonds", "clubs", "hearts", "spades"}`
+
+```java
+public class Card {
+    private String rank;
+    private String suit;
+    
+    public Card(String rank, String suit) {
+        setRank(rank);
+        setSuit(suit);
+    }
+    
+    private final String[] VALID_RANKS = 
+        {"2", "3", "4", "5", "6", "7", "8", "9", "10", 
+         "jack", "queen", "king", "ace};
+    
+    private void setRank(String rank) {
+        if (!isValidRank(rank)) {
+            System.out.println(rank + " is not a valid rank.");
+            System.exit(0);
+        }
+        this.rank = rank;
+    }
+    private boolean isValidRank(String someRank) {
+        return contains(VALID_RANKS, someRank);
+    }
+    private boolean contains(String[] array, String item) {
+        for (String element: array) {
+            if (element.equals(item)) return true;
+        }
+        return false;
+    }
+    // ...
+}
+```
+
+### Static Members
+These are shared with all instances of a class.
+```java
+public static final String[] VALID_RANKS = 
+    {"2", "3", "4", "5", "6", "7", "8", "9", "10", 
+     "jack", "queen", "king", "ace};
+public static final String[] VALID_SUITS = 
+    {"diamonds", "clubs", "hearts", "spades"};
+```
+Each instance shares a single copy of VALID_RANKS and VALID_SUITS. Since they're `final`, they can be safely made `public` so clients can use them.
+
+---
 # Arrays
 - dynamically allocated
 - fixed type and number of elements
