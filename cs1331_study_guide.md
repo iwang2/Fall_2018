@@ -45,6 +45,27 @@ You can redirect this to wrtie to files.
 PrintStream outFile = new PrintStream(new File("somefile.txt"));
 outFile.println(...);
 ```
+---
+# Control Structures
+### `switch`
+Don't use it.
+
+### `for` loop
+```java
+for(initializer; condition; update) {
+    // executes as long as condition is true
+}
+```
+Declare loop indices within for, rather than intializing a variable outside like in `C`.
+
+You can have multiple loop indices.
+```java
+String mystery = "mnerigpaba", solved = "";
+int len = mystery.length();
+for (int i = 0, j = len-1; i < len/2; i++, j--) {
+    solved += mystery.charAt(i) + mystery.charAt(j);
+}
+```
 
 ---
 # Classes
