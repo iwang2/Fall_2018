@@ -10,6 +10,43 @@ Good Things: cross-platform deployability and automatic garbage collection (no m
 A main method must be included for a class to be executeable.
 
 ---
+# Input/Output
+### `System.out.printf`
+Basically the way you print things in `C`.
+
+`System.out.printf("%d %s.\n", 7, "Samurai");` prints `7 Samurai.`  
+`System.out.printf("I like %3.2f.%n", Math.PI);` prints `I like 3.14.`
+
+### Scanner (`java.util.Scanner`)
+To read input from the console.
+```java
+Scanner keyboard = new Scanner(System.in);
+System.out.println("Enter your 3 test scores, separated by spaces.");
+exam1 = keyboard.nextInt();
+exam2 = keyboard.nextInt();
+exam3 = keyboard.nextInt();
+examAvg = (exam1 + exam2 + exam3) / 3.0;
+System.out.printf("Your exam average is %.1f%n", examAvg);
+```
+
+You can do this with a file too.
+```java
+Scanner fileScanner = new Scanner(new File("ScannerFun.java"));
+while (fileScanner.hasNext()) {
+    String line = fileScanner.nextLine();
+    // do something with line
+}
+```
+
+### File Output with `PrintStream`
+`System.out` uses the `stdout` file descriptor.  
+You can redirect this to wrtie to files.
+```java
+PrintStream outFile = new PrintStream(new File("somefile.txt"));
+outFile.println(...);
+```
+
+---
 # Classes
 ### Abstraction
 Capturing the essential properties and behaviors of a concept by ignoring irrelevant details.
