@@ -136,3 +136,21 @@ normal distribution - > convert to distribution based on standard deviations wit
 - verifiable and valid (accurate prediction)
 - publicized (must be peer reviewed)
 - scientific findings are cumulative (built on past research)
+
+### 1. Biopsychology
+Vincent Dethier - feeding behavior in the housefly
+1. observation - fly walks on the food while eating
+2. hypothesis - fly tastes with its feet
+3. manipulation - whether head/feet in sugar
+4. measure proboscis
+5. conclusion - fly tastes with its feet
+
+### 2. Social
+Bibb Latane and John Darley - The Bystander Effect  
+The more people there are, the less chance
+- Kitty Genovesse Case, Seizure Experiment
+
+### 3. Cognitive
+Aging and Memory - episodic memory most affected, but semantic cues will improve that
+
+
