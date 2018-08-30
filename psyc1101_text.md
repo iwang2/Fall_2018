@@ -15,4 +15,17 @@ Aristotle, for example, said the heart was the origin of all emotion (center of 
 Means to capture/record/describe a group. Identification without understanding the "why."
 
 ## Naturalistic Observation
-No attempt to manipulate/control conditions.
+No attempt to manipulate/control conditions.  
+Produces **ecologically valid** observations of genuine reactions. 
+
+**Hawthorne effect** - people reactively change their behavior once they are aware are being observed
+
+### Disadvantages
+- lack of control of the environment
+- uncertainty of factors affecting behavior
+- difficult for other researches to repeat experiment
+
+## Participant Observation
+Researcher becomes a part of the group under investigation.
+- can provide greater access to daily life/activities
+- may also increase bias
