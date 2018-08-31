@@ -5,7 +5,8 @@ Date | Topic
 --- | ---
 8.22.18 | Who studies psychology?
 8.24.18 | Research methods
-8.27.18 | Experimental Methods in Psychology
+8.27.18 | [Experimental Methods in Psychology](#experimental-methods)
+8.31.18 | [Biopsychology and Neuroscience](#biopsychology-and-neuroscience)
 
 ---
 
@@ -152,5 +153,48 @@ The more people there are, the less chance
 
 ### 3. Cognitive
 Aging and Memory - episodic memory most affected, but semantic cues will improve that
+
+---
+## Biopsychology and Neuroscience
+Control the behavior and mind.
+- CNS(central nervous system), PNS (peripheral nervous system), endocrine, genetics
+
+### Nervous System
+#### CNS
+- brain, spinal cord
+#### PNS
+Everything else branching out from the brain and spinal cord.
+- **semantic NS**
+  - skin/muscles/joints send signals to CNS- sensory/afferent neurons
+  - CNS sends isngals to muscles/joints/skin - *motor/efferent* neurons
+- **autonomic NS**
+  - glands/internal organs -> CNS
+  - CNS - > glands/internal organs
+
+### Autonomic Nervous System
+Fight or flight response (tend and befriend for women, controversial)
+#### Spinal Reflex
+- patellar reflex - hitting the knee
+- infant reflexes - grasp, moro, step, rooting, babinski
+
+### The Neuron
+Information processing between neurons is electrical and electro-chemical.
+- **schwann cells** - myelin sheaths around the axon (speed up transmission)
+- **nodes of Ranvier** - gaps in the myelin sheaths, which allow for saltatory conduction
+- **dendrites** - collect input from terminal buttons of presynaptic cells; if interpreted info reaches a threshold, the cell fires
+**Glial** cells support neurons, help maintain environment and produce myelin.
+- resting and action potential - threshold is "all or none" for transmission
+
+### Synapse
+Gap between dendrites and terminal button of two different cells
+
+neurotransmitters made in the axon -> stroed in vesicles -> fuse to the membrane after action potential and released into synaptic cleft -> neurotransmission terminated -> bind to postsynaptic receptors 
+
+many differnet neurotransmitters, may *excite* or *inhibit* cell potential
+- **agonist** - increases action
+- **antagonist**  - decreases
+
+#### Alcohol
+An *agonist* for GABA, serotonin, and dopamine.
 
 
