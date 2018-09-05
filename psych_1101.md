@@ -4,7 +4,7 @@
 Date | Topic
 --- | ---
 8.22.18 | Who studies psychology?
-8.24.18 | Research methods
+8.24.18 | [Research methods](#research-methods)
 8.27.18 | [Experimental Methods in Psychology](#experimental-methods)
 8.31.18 | [Biopsychology and Neuroscience](#biopsychology-and-neuroscience)
 
@@ -197,4 +197,14 @@ many differnet neurotransmitters, may *excite* or *inhibit* cell potential
 #### Alcohol
 An *agonist* for GABA, serotonin, and dopamine.
 
+### The Brain (Cerebral Cortex)
+- **central fissure** - somatosensory and motor humunculus
 
+### Face Recognition
+Fusiform face area.
+
+- **Wernicke's aphasia** - cannot speak in cohernt sentences and understanding speech(don't know they are not making sense)  
+- **Broca's aphasia** - language production
+
+### THE Limbic System
+hypothalamus (motivation), thalamus (sensory neurons, except olfaction), hippocampus (memory formation) , amygdala (emotion regulation)
