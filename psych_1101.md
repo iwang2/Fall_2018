@@ -7,6 +7,7 @@ Date | Topic
 8.24.18 | [Research methods](#research-methods)
 8.27.18 | [Experimental Methods in Psychology](#experimental-methods)
 8.31.18 | [Biopsychology and Neuroscience](#biopsychology-and-neuroscience)
+9.7.18 | 
 
 ---
 
@@ -206,5 +207,28 @@ Fusiform face area.
 - **Wernicke's aphasia** - cannot speak in cohernt sentences and understanding speech(don't know they are not making sense)  
 - **Broca's aphasia** - language production
 
-### THE Limbic System
+### The Limbic System
 hypothalamus (motivation), thalamus (sensory neurons, except olfaction), hippocampus (memory formation) , amygdala (emotion regulation)
+
+### Biopsychology Methods
+- human brain-lesion case studies (Montreal procedure - Wilder Penfield)
+- stereotaxic method (precise lesion/stimulation)
+- electrophysiology (EEG) - high temporal resolution, low spatial resolution (many layers to go through)
+- neuroimaging - low temporal resolution, high spatial resolution
+  - positron emission tomography (PET)
+  - MRI
+- transcranial magnetic simulation (TMS)
+
+### PET imaging
+- metabolic processes in the body
+
+### Magnetic Resonance Imaging (MRI)
+- no radiation or x-rays, less invasive
+- uses strong magnetic fields to generate images of the organs
+- structural looks at anatomy
+- function looks at activity (Blood Oxygenation Level Dependent)
+
+### Transcranial Magnetic Stimulation
+- also non-invasive; changing magnetic field causes electric current to flow in targeted region via electromagnetic induction
+- used as treatment for depression
+
