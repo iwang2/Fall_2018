@@ -232,3 +232,21 @@ hypothalamus (motivation), thalamus (sensory neurons, except olfaction), hippoca
 - also non-invasive; changing magnetic field causes electric current to flow in targeted region via electromagnetic induction
 - used as treatment for depression
 
+---
+### Endocrine System
+Collection of glands that erlease hormones into the bloodstream to regulate physiology and behavior.
+- include hypothalamus in the brain; releases a hormone that regulates other glands through the pituitary gland
+- the rest are targeted to other organs through blood circulation
+
+### Behavioral Genetics
+- Half and half from parents
+- **genotype** - genetic composition determined at conception
+- **phenotype** - observable characteristics determined by dominant genes and environment
+- **heritability** - variance attributed to genetics; significant in bipolar disorder, schizophrenia, Alzheimer's Disease, fluid intelligence
+
+### Twin Studies
+- share a trait, they are condordant
+- if only one has a trait, they are discordant
+- rate of concordane in monozygotic twwins is an indicater of heritability
+- high cross-cultural reliability in concordance rates
+
