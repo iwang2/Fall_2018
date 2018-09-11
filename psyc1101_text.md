@@ -53,3 +53,12 @@ Quick way of collecting lots of information.
 - **socially desireable bias** - responding in a way that is seen as acceptable by others 
 - **illusory superiority** - tendency to describe our own behavior as better than average
 - **volunteer bias** - people who are willing to answer uncomfortable survey questions are overrepresented
+
+## Research Ethics
+Standards of behavior; principles that outline how people should be educated, treated, and respected when participating in a study.
+a. Beneficence and Nonmaleficence - striving to do good and avoiding experiments that can intentionally harm participants
+b. Fidelity and Responsibility - be honest and reliable
+c. Integrity - accurate, honest, non-biased practices
+d. Justice - researchers should not include/exclude any group from particpation for reasons unrelated to the study
+e. Respect for People's Rights and Dignity - open and honest communication about study details, respect of privacy, etc.
+
