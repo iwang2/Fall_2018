@@ -55,10 +55,75 @@ Quick way of collecting lots of information.
 - **volunteer bias** - people who are willing to answer uncomfortable survey questions are overrepresented
 
 ## Research Ethics
-Standards of behavior; principles that outline how people should be educated, treated, and respected when participating in a study.
+Standards of behavior; principles that outline how people should be educated, treated, and respected when participating in a study.  
 a. Beneficence and Nonmaleficence - striving to do good and avoiding experiments that can intentionally harm participants
 b. Fidelity and Responsibility - be honest and reliable
 c. Integrity - accurate, honest, non-biased practices
 d. Justice - researchers should not include/exclude any group from particpation for reasons unrelated to the study
 e. Respect for People's Rights and Dignity - open and honest communication about study details, respect of privacy, etc.
+
+### Internal Review Board
+Committee of independent people who review and assess if the research project complies with the General Ethical principles.
+- sound research design
+- risks of participation are minimized and reasonable
+- benefits of outweigh potential risks
+- participants can make an informed decision to participate and may withdraw at any time without consequence
+- safeguards are in place to protect participants
+- collected data will be kept private and confidential
+
+**informed consent:** researchers work with participants to describe essential details (procedures, risks/benefits, protection of personal info, participant rights)
+
+### Special Ethical Considerations
+Vulnerable populations include people with:
+1. **Decisional impairment** - diminished capacity to provide informed consent (children, mentally disabled)
+   - consent to participate requires informed consent by the parents and guardians, and **assent** from the participant
+2. **Situational Vulnerability** - freedom of choice is compromised as a result of undue influence from another source (military personnel, prisoners)
+   - additional safeguards must exist to prevent exploitation (impartial third-party to advocate on behalf of individuals)
+   
+### Deception
+Researchers must receive IRB approval:
+1. no more than a minimal risk to participants (emotional/physical discomfort)
+2. does not affect the wellbeing and rights of participants
+3. justification that deception is the only way to conduct the study
+4. participants must be **debriefed** afterwards 
+
+**confederate** - researcher acting like a participant
+
+Stanly Milgram's Conformity Experiment - lack of consideration for maleficence and failure to respect people's rights and dignity
+
+## Correlation
+Used to capture the direction and strength of a relationship between variables.
+
+### Correlation Coefficient
+To numerically represent the strength of the relationship (from -1 to +1)
+
+### Misleading
+Correlation does not automatically imply cause and effect relationships.
+- **confounding variable** - other variables may influence what is being measured
+- **causality** - notion that one variable directly affects another variable
+
+## Experimental Methods
+### Hypothesis
+Prediction about what will happen in research, and used to directly link ideas within a **cause and effect** relationship.  
+Hypotheses myst be consistent with prior observations/exsiting theory, simple as possible, specific, testable, and falsifiable.
+
+**extraneous (confounding) variables** - not the focus of the study, but may influence the outcome of research if not controlled
+
+### Sample Selection
+- **simple random** - every individual has an equal chance of participatin
+- **stratified random** - divides the population by subgroups, then random samples are taken in proportion to the population of interest
+- **non-random** - not all individuals are equally likely to participate
+  - **convenience sample** - group of individuals selected only bc of a pre-existing condition, convenience, easy access
+
+### Validity
+- **internal** - controlling for factors that might bias the outcome of an experiment
+- **external** - relevance and whether the conclusion can be generalized
+
+## Making Sense of Data
+### Central Tendency (Describing)
+Score that best represents the others (mean is typical)
+- **descriptive statistics** - mean, median, mode, frequency of demographics, etc.
+- **inferential statistics** - causal relationship between IV and DV
+
+
 
