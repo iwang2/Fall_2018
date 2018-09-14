@@ -7,7 +7,7 @@ Date | Topic
 8.24.18 | [Research methods](#research-methods)
 8.27.18 | [Experimental Methods in Psychology](#experimental-methods)
 8.31.18 | [Biopsychology and Neuroscience](#biopsychology-and-neuroscience)
-9.7.18 | 
+9.14.18 | [Child Development](#child-development)
 
 ---
 
@@ -249,4 +249,61 @@ Collection of glands that erlease hormones into the bloodstream to regulate phys
 - if only one has a trait, they are discordant
 - rate of concordane in monozygotic twwins is an indicater of heritability
 - high cross-cultural reliability in concordance rates
+
+---
+## Child Development
+### 1. Prenatal development
+- Human brains grow much more than chimp brains.
+- fetal environment subject to mother's nutrition
+
+### 2. Perceptual Development
+- fetus cannot see, but can hear (most developed of all senses at birth)
+- near-sighted 
+- track social stimula (will track a face longer)
+
+### 3. Physical and Motor Development
+- newborns have motor reflexes that mostly disappear after a few months
+- **cephalocaudal rule** - head to toe development
+- **proximodistal rule** - "inside-out" center of the body to periphery
+
+### 4. Cognitive Development
+Up to adulthood, children need to understand 3 things:
+1. how the physical world works
+2. how their mind represents the world
+3. how other minds represent the world
+
+They learn to think by developing schemas:
+1. **assimilation** - apply existing schemas in novel situations
+2. **accommodation** - revises schema based on new information
+
+Piaget developed this theory by watching his own kids. Believed that development occurs in stages:
+1. **sensorimotor** (birth -2 yrs)
+   - using senses and ability to move
+   - develops understanding by coordinating the two
+   - acting intentionally (not reflex)
+2. **preoperational** (2-6y yrs) - language
+   - using words and images; symbolic thinking rather than just connections
+   - stage thinking egocentrically (what I see is what you see), basic understanding of other minds
+3. **concrete operational** (6-11 yrs)
+4. **formal operational** (11+) - can think logically, hypothetically, concerned with the future
+
+Deveopment is not step-like, but a gradual transition. Piaget ignored differences in cognitive style and culture.
+
+### 5. Social Development
+- attachment - bond between child and caregiver
+- orphanages - children were warm and well fed, but many were physically and psychologically impaired
+- **contact comfort** - important factor, more so than food (sense of security); the instinct for touch with something soft
+- **imprinting** - attachment to first moving thing (Konrad Lorenz - ducks)
+
+Human infants engage in behavior to keep their mother close.   
+Mary Ainsworth - **strange situation test** attachment styles
+- 60% secure, 20% avoidant, 15% ambivalent, 5% no attachment style at all
+
+### 6. Moral Development
+- Piaget - moves from realism to relativism, prescriptions to principles
+#### Kohlberg's theory 
+- **preconventional** - morality is determined by consequences 
+- **conventional** - determined by
+- **postconventional** - determined by self 
+
 
