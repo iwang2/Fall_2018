@@ -3,15 +3,15 @@
 ### Table of Contents
 Date | Topic
 --- | ---
-8.22.18 | Who studies psychology?
+8.22.18 | [Who studies psychology?](#who-studies-psychology)
 8.24.18 | [Research methods](#research-methods)
 8.27.18 | [Experimental Methods in Psychology](#experimental-methods)
 8.31.18 | [Biopsychology and Neuroscience](#biopsychology-and-neuroscience)
 9.14.18 | [Child Development](#child-development)
+9.17.18 | [Adolescence and Adulthood](adolescence-and-to-adulthood)
 
 ---
-
-**Psychological science**: 
+## Who Studies Psychology?
 
 Noncritical thinking leads to erroneous conclusions.
 
@@ -305,5 +305,61 @@ Mary Ainsworth - **strange situation test** attachment styles
 - **preconventional** - morality is determined by consequences 
 - **conventional** - determined by
 - **postconventional** - determined by self 
+
+---
+## Adolescence and (to) Adulthood
+Lots of research on children, but little after age 12. 
+- Erik Erickson - one of few to look at development throughout life
+- trained psychoanalyst
+
+### Erickson's Psychosocial Stages
+Believed more in psychosocial than Freud's psychosexual. 
+
+Stage | Age | Crisis
+--- | --- | ---
+1. Infancy | 0-2 | trust vs. mistrust
+2. Toddler | 2-3 | autonomy vs. shame and doubt (sense of free will)
+3. Preschool | 4-6 | initiative vs. guilt 
+4. 
+5. Adolescence | 13-19 | identity vs. role confusion (sense of self)
+6. young adulthood | 20s | intimacy cs. isolation (love)
+7. Middle adulthood | 30s-50s | generatity vs. stagnation
+8. Old Age | 60+ | ego integrity vs. despair (acceptance)
+
+### Adolescence
+From 11-13 to 18-21
+- Begings with puberty (varies greatly) and ends with adulthood
+- on average, gain 40 lbs. and grow 10 in.
+- in USA, in 1900s puberty for girls began from 16-17, now at age 13
+- The period of adolescence is widening.
+- inner turmoil and increased recklessness (more suceptible to peer influence
+
+### Brain Development
+The prefrontal cortex finishes development last (20s-30s). Thus, adolescents rely more on the amygdala (emotional center of the brain).
+
+### Sexuality
+More psychological distress amongst girls who get their period early.
+
+### Adulthood
+- Changes in cognition around 25 years of age (reduced episodic memory and speed, but compensated by experience). 
+- changes in brain (less specialized)
+  - less hemispheric asymmetry
+  - neuroplasticity of abilities and brain location
+  
+### Intelligence
+- **fluid** (analytic reasoning) - decreases with age
+- **crystallized** - increases with age
+
+### Marital Satisfaction
+Tends to decrease with age.
+
+### Aging
+**Socio-emotional Selctivity Theory** - Cartensen - When we're younger, we interact with people for information. When we're older, we seek more emotional stability, selecting relationships and investing in activities that provide emotional satisfaction. 
+
+- older adults do not seek new relationships, and experience lower levels of stress, anger, and worry
+- younger adults overestimate problems of old age
+- sensory, cognitive loss, seeking emotional selectivity theory
+- no evidence for mid-life crisis
+- Alzheimer's Disease is age-related, but a disease (only 29% of people over 80)
 
 
