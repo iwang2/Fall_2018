@@ -8,7 +8,7 @@ Date | Topic
 8.27.18 | [Experimental Methods in Psychology](#experimental-methods)
 8.31.18 | [Biopsychology and Neuroscience](#biopsychology-and-neuroscience)
 9.14.18 | [Child Development](#child-development)
-9.17.18 | [Adolescence and Adulthood](adolescence-and-to-adulthood)
+9.17.18 | [Adolescence and Adulthood](#adolescence-and-to-adulthood)
 
 ---
 ## Who Studies Psychology?
