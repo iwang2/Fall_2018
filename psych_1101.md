@@ -320,7 +320,7 @@ Stage | Age | Crisis
 1. Infancy | 0-2 | trust vs. mistrust
 2. Toddler | 2-3 | autonomy vs. shame and doubt (sense of free will)
 3. Preschool | 4-6 | initiative vs. guilt 
-4. 
+4. Childhood | 6-12 | industry vs. inferiority (comparison to others)
 5. Adolescence | 13-19 | identity vs. role confusion (sense of self)
 6. young adulthood | 20s | intimacy cs. isolation (love)
 7. Middle adulthood | 30s-50s | generatity vs. stagnation
