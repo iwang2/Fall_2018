@@ -316,7 +316,7 @@ Lots of research on children, but little after age 12.
 Believed more in psychosocial than Freud's psychosexual. 
 
 \# | Stage | Age | Crisis
---- | --- | ---
+--- | --- | --- | ---
 1 | Infancy | 0-2 | trust vs. mistrust
 2 | Toddler | 2-3 | autonomy vs. shame and doubt (sense of free will)
 3 | Preschool | 4-6 | initiative vs. guilt 
