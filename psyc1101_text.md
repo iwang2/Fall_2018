@@ -3,6 +3,11 @@
 Chapter | Title
 --- | ---
 2 | [Methods](#methods)
+4 | [Development](#development)
+
+---
+# Development
+
 
 ---
 # Methods
