@@ -9,6 +9,7 @@ Date | Topic
 8.31.18 | [Biopsychology and Neuroscience](#biopsychology-and-neuroscience)
 9.14.18 | [Child Development](#child-development)
 9.17.18 | [Adolescence and Adulthood](#adolescence-and-to-adulthood)
+9.19.18 | [The Senses](#sensation-and-the-senses)
 
 ---
 ## Who Studies Psychology?
@@ -361,5 +362,54 @@ Tends to decrease with age.
 - sensory, cognitive loss, seeking emotional selectivity theory
 - no evidence for mid-life crisis
 - Alzheimer's Disease is age-related, but a disease (only 29% of people over 80)
+
+---
+## Sensation and the Senses
+- **sensation** - *detection* of an environmental stimulus
+- **perception** - *interpretation* of an environmental stimulus
+
+stimulus -> sensory receptors (Transduction - turned to neural signals) -> travels to brain via synapses (information processing) -> cortex (full perception)
+
+### Transduction
+Type | Stimulus | Action Potential Location
+--- | --- | ---
+vision | light in eye | optic nerve
+audition | sound in inner ear | auditory nerve
+smell | chemical molecules in air (nose) | olfactory bulb
+taste | chemical molecules in food (mouth) | taste buds
+touch | pressure on skin | cells under skin
+balance | gravity and motion in inner ear (position of muscles) | vestibular senses and feedback from muscles
+
+### Receptor Location
+Sense | Location
+--- | ---
+vision | retina in eye
+audition | cochlea in inner ear
+smell | olfactory bulb in nose
+taste | taste buds on tongue and mouth
+touch | just under skin
+temperature | under skin
+pain | under skin
+kinesthesis | muscles and joints
+vestibular senses | inner ear
+
+### Chemical Senses
+Sense of taste and smell. 
+
+### Vestibular Senses
+- Cortex and cerebellum receive info from vestibular sense and from kinesthetic senses in muscles to maintain stability and balance.
+- sensation is unconscious
+
+### Cortical PRojection Areas
+Sense | Projection Area
+--- | ---
+vision | occipital cortex
+audition | temporal
+smell | frontal/temporal
+taste | parietal
+touch | somatosensory (parietal)
+proprioception | cerebellum and somatosensory
+
+
 
 
