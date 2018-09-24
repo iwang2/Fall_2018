@@ -10,6 +10,7 @@ Date | Topic
 9.14.18 | [Child Development](#child-development)
 9.17.18 | [Adolescence and Adulthood](#adolescence-and-to-adulthood)
 9.19.18 | [The Senses](#sensation-and-the-senses)
+9.24.18 | [Visual Perception](#visual-perception)
 
 ---
 ## Who Studies Psychology?
@@ -409,6 +410,59 @@ smell | frontal/temporal
 taste | parietal
 touch | somatosensory (parietal)
 proprioception | cerebellum and somatosensory
+
+---
+## Visual Perception
+Perception is the cognitive interpretation of the environmental stimulus, once detected.  
+This is affected by not just familiarity with the stimulus, but
+- principles of organization
+- context
+
+### Principles of Organization
+Figure-ground relationships.
+
+#### Gestalt
+Ways we organize what we see.
+a. proximity
+b. similarity 
+c. continuity 
+d. closure
+e. common region
+f. connectedness
+
+Often used in graphic design.
+
+### Context
+Depending on the surroundings of an object, things can appear differently.
+- **Muller Lyer illusion** - line lengths
+- **Shephard's table top illusion** - two tables look to be different sizes
+- **Ames room** - assumption that walls are parallel
+- **Mach Bands** - contrast due to visual information processing; step gradient
+- **Hermann Grid Illusion** - grey dots at intersections of a grid
+
+### Perception of Depth
+Some of it is biological, some is learned.  
+Processed by the parietal lobe. 
+
+#### Gibson and Walk
+Visual Cliff Experiment
+- 6-14 months - all children crossed over to mom at shallow end, but refused to cross to deep end
+- turtles and chickens would cross
+- lambs and kittens would not
+
+#### Primary Depth Cues (Biological)
+- **accomodation** - lens stretching
+- **convergence** - muscle tension in two eyes
+- **retinal disparity** - two different visual representations sent to our brains (left and right eye)
+
+#### Secondary Depth Cues (Learned)
+Monocular (relies on sight from only one eye).
+- overlap (interpostion or occulusion)
+- size perspective - judgement from distances
+- linear perspective
+- shading and shadows (things like atmospheric effects)
+- relative motion - objects closer to you move faster, objects farther away are slower 
+- texture gradient - as things get farther away,
 
 
 
