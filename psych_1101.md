@@ -254,21 +254,35 @@ Collection of glands that erlease hormones into the bloodstream to regulate phys
 
 ---
 ## Child Development
-### 1. Prenatal development
-- Human brains grow much more than chimp brains.
-- fetal environment subject to mother's nutrition
+Number | Stage
+--- | ---
+1 | [Prenatal](#prenatal-development)
+2 | [Perceptual](#perceptual-development)
+3 | [Physical and Motor](#physical-and-motor-development)
+4 | [Cognitive](#cognitive-development)
+5 | [Social](#social-development)
+6 | [Moral](#moral-development)
 
-### 2. Perceptual Development
+### Prenatal development
+a. **germinal stage** (2 weeks after conception) - division of fertilized zygote
+b. **embryonic stage** (2 - 8 weeks) - differentiation into body parts
+c. **fetal stage** (9 weeks - birth) - body systems develop; brain cells become myelinated
+
+Human brains undergo much more development than chimp brains.  
+Fetal environment subject to mother's nutrition.
+- *thalidomide* - over the counter drug to treat morning sickness; children born with phocomelia
+
+### Perceptual Development
 - fetus cannot see, but can hear (most developed of all senses at birth)
 - near-sighted 
 - track social stimula (will track a face longer)
 
-### 3. Physical and Motor Development
+### Physical and Motor Development
 - newborns have motor reflexes that mostly disappear after a few months
 - **cephalocaudal rule** - head to toe development
 - **proximodistal rule** - "inside-out" center of the body to periphery
 
-### 4. Cognitive Development
+### Cognitive Development
 Up to adulthood, children need to understand 3 things:
 1. how the physical world works
 2. how their mind represents the world
@@ -291,7 +305,7 @@ Piaget developed this theory by watching his own kids. Believed that development
 
 Deveopment is not step-like, but a gradual transition. Piaget ignored differences in cognitive style and culture.
 
-### 5. Social Development
+### Social Development
 - attachment - bond between child and caregiver
 - orphanages - children were warm and well fed, but many were physically and psychologically impaired
 - **contact comfort** - important factor, more so than food (sense of security); the instinct for touch with something soft
@@ -301,7 +315,7 @@ Human infants engage in behavior to keep their mother close.
 Mary Ainsworth - **strange situation test** attachment styles
 - 60% secure, 20% avoidant, 15% ambivalent, 5% no attachment style at all
 
-### 6. Moral Development
+### Moral Development
 - Piaget - moves from realism to relativism, prescriptions to principles
 #### Kohlberg's theory 
 - **preconventional** - morality is determined by consequences 
