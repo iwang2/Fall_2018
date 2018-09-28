@@ -264,18 +264,19 @@ Number | Stage
 6 | [Moral](#moral-development)
 
 ### Prenatal development
-a. **germinal stage** (2 weeks after conception) - division of fertilized zygote
-b. **embryonic stage** (2 - 8 weeks) - differentiation into body parts
-c. **fetal stage** (9 weeks - birth) - body systems develop; brain cells become myelinated
+1. **germinal stage** (2 weeks after conception) - division of fertilized zygote
+2. **embryonic stage** (2 - 8 weeks) - differentiation into body parts
+3. **fetal stage** (9 weeks - birth) - body systems develop; brain cells become myelinated
 
 Human brains undergo much more development than chimp brains.  
 Fetal environment subject to mother's nutrition.
 - *thalidomide* - over the counter drug to treat morning sickness; children born with phocomelia
 
 ### Perceptual Development
-- fetus cannot see, but can hear (most developed of all senses at birth)
+- fetus cannot see, but can hear (most developed of all senses at birth); prefers mother's voice
 - near-sighted 
 - track social stimula (will track a face longer)
+- mimic facial expressions
 
 ### Physical and Motor Development
 - newborns have motor reflexes that mostly disappear after a few months
