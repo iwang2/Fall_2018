@@ -279,7 +279,10 @@ Fetal environment subject to mother's nutrition.
 - mimic facial expressions
 
 ### Physical and Motor Development
-- newborns have motor reflexes that mostly disappear after a few months
+- ability to execute physical actions takes time
+- newborns have motor reflexes that mostly disappear after a few months (rooting, Babinksi, sucking)
+
+#### Development of Intentional Motor Actions
 - **cephalocaudal rule** - head to toe development
 - **proximodistal rule** - "inside-out" center of the body to periphery
 
