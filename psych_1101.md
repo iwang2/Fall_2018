@@ -296,11 +296,13 @@ They learn to think by developing schemas:
 1. **assimilation** - apply existing schemas in novel situations
 2. **accommodation** - revises schema based on new information
 
-Piaget developed this theory by watching his own kids. Believed that development occurs in stages:
-1. **sensorimotor** (birth -2 yrs)
+#### Piaget's Development Stages
+Developed this theory by watching his own kids.
+1. **sensorimotor** (birth - 2 yrs)
    - using senses and ability to move
    - develops understanding by coordinating the two
    - acting intentionally (not reflex)
+   - eventually, **object permanence** (mental representation)
 2. **preoperational** (2-6y yrs) - language
    - using words and images; symbolic thinking rather than just connections
    - stage thinking egocentrically (what I see is what you see), basic understanding of other minds
