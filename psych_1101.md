@@ -306,8 +306,13 @@ Developed this theory by watching his own kids.
 2. **preoperational** (2-6y yrs) - language
    - using words and images; symbolic thinking rather than just connections
    - stage thinking egocentrically (what I see is what you see), basic understanding of other minds
+   - no conservation of physical properties
 3. **concrete operational** (6-11 yrs)
-4. **formal operational** (11+) - can think logically, hypothetically, concerned with the future
+   - conservation of physical attributes
+   - logical reasoning
+   - world is not always the way it appears
+4. **formal operational** (11+)
+   - can think logically, hypothetically, concerned with the future
 
 Deveopment is not step-like, but a gradual transition. Piaget ignored differences in cognitive style and culture.
 
@@ -315,27 +320,29 @@ Deveopment is not step-like, but a gradual transition. Piaget ignored difference
 - attachment - bond between child and caregiver
 - orphanages - children were warm and well fed, but many were physically and psychologically impaired
 - **contact comfort** - important factor, more so than food (sense of security); the instinct for touch with something soft
-- **imprinting** - attachment to first moving thing (Konrad Lorenz - ducks)
+- **imprinting** - immediate attachments during critical period shortly after birth (Konrad Lorenz - ducks)
 
 Human infants engage in behavior to keep their mother close.   
 Mary Ainsworth - **strange situation test** attachment styles
 - 60% secure, 20% avoidant, 15% ambivalent, 5% no attachment style at all
 
 ### Moral Development
-- Piaget - moves from realism to relativism, prescriptions to principles
+#### Piaget
+- moves from realism to relativism, prescriptions to principles, outcomes to intentions
+
 #### Kohlberg's theory 
 - **preconventional** - morality is determined by consequences 
-- **conventional** - determined by
+- **conventional** - determined by extent of conformation to social rules / following cultural norms
 - **postconventional** - determined by self 
 
 ---
 ## Adolescence and (to) Adulthood
 Lots of research on children, but little after age 12. 
-- Erik Erickson - one of few to look at development throughout life
-- trained psychoanalyst
 
-### Erickson's Psychosocial Stages
-Believed more in psychosocial than Freud's psychosexual. 
+### Erik Erickson
+One of few to look at development throughout life
+- stages represented by social crises
+- believed more in psychosocial than Freud's psychosexual. 
 
 \# | Stage | Age | Crisis
 --- | --- | --- | ---
@@ -353,17 +360,19 @@ From 11-13 to 18-21
 - Begings with puberty (varies greatly) and ends with adulthood
 - on average, gain 40 lbs. and grow 10 in.
 - in USA, in 1900s puberty for girls began from 16-17, now at age 13
-- The period of adolescence is widening.
-- inner turmoil and increased recklessness (more suceptible to peer influence
+- The period of adolescence is widening (more time in school after puberty)
+- inner turmoil and increased recklessness (more suceptible to peer influence)
 
 ### Brain Development
-The prefrontal cortex finishes development last (20s-30s). Thus, adolescents rely more on the amygdala (emotional center of the brain).
+- prefrontal cortex finishes development last (20s-30s)
+- adolescents rely more on the amygdala (emotional center of the brain), less rationality
 
 ### Sexuality
-More psychological distress amongst girls who get their period early.
+- more psychological distress amongst girls who get their period early
+- decline of teenage sex
 
 ### Adulthood
-- Changes in cognition around 25 years of age (reduced episodic memory and speed, but compensated by experience). 
+- Changes in cognition around 25 years of age (reduced episodic memory and speed, but compensated by experience) 
 - changes in brain (less specialized)
   - less hemispheric asymmetry
   - neuroplasticity of abilities and brain location
@@ -375,12 +384,14 @@ More psychological distress amongst girls who get their period early.
 ### Marital Satisfaction
 Tends to decrease with age.
 
-### Aging
-**Socio-emotional Selctivity Theory** - Cartensen - When we're younger, we interact with people for information. When we're older, we seek more emotional stability, selecting relationships and investing in activities that provide emotional satisfaction. 
+### Cartensen's Socio-emotional Selctivity Theory
+When we're younger, we interact with people for information. When we're older, we seek more emotional stability. 
+- older adults do not seek new relationships
 
-- older adults do not seek new relationships, and experience lower levels of stress, anger, and worry
+### Aging
+- older adults experience lower levels of stress, anger, and worry
 - younger adults overestimate problems of old age
-- sensory, cognitive loss, seeking emotional selectivity theory
+- sensory, cognitive loss, emotional selectivity theory
 - no evidence for mid-life crisis
 - Alzheimer's Disease is age-related, but a disease (only 29% of people over 80)
 
@@ -392,7 +403,7 @@ Tends to decrease with age.
 stimulus -> sensory receptors (Transduction - turned to neural signals) -> travels to brain via synapses (information processing) -> cortex (full perception)
 
 ### Transduction
-Type | Stimulus | Action Potential Location
+Type | Environmental Stimulus | Neural Information<br>(Action Potential)
 --- | --- | ---
 vision | light in eye | optic nerve
 audition | sound in inner ear | auditory nerve
@@ -415,10 +426,11 @@ kinesthesis | muscles and joints
 vestibular senses | inner ear
 
 ### Chemical Senses
-Sense of taste and smell. 
+Taste (sweet, salty, sour, bitter, umami) and smell.
 
 ### Vestibular Senses
-- Cortex and cerebellum receive info from vestibular sense and from kinesthetic senses in muscles to maintain stability and balance.
+- Cortex and cerebellum receive info from vestibular sense and from kinesthetic senses in muscles to maintain stability and balance
+- semicircular canals and otolith organs
 - sensation is unconscious
 
 ### Cortical PRojection Areas
