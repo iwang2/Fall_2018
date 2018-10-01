@@ -472,6 +472,44 @@ A decision - deciding whether a sensory event took place or not; taking into acc
 
 ---
 ## Visual Perception
+1. stimuli - light waves reach the eye
+2. receptor steps - enter through the pupil (size controlled by the iris)
+3. cornea focuses the incoming light; bent farther inward by lens, focused to form upside down image on retina
+4. rods and cones convert light waves to electrical impulses -> processed by bipolar, amacrine, and horizontal cells -> generate action potentials transmitted by optic nerve
+
+### Retina
+- **rods** (contain rhodopsin) - mostly in periphery of retina; for dim illumination (don't distinguish color; only shape and intensity)
+- **cones** (contain iodopsin) - mostly in **fovea**; bright light, responsible for color
+  - S (blue to violet), M (yellow to green), L (red to orange)
+  
+### Visual Receptive Fields
+Area in retina that stimulates single sensory neuron in visual pathway (excitatory or inhibitory).
+- Barlow - on/off receptors in frog ganglion cells at restricted angle (flies at reacheable distance)
+
+#### Visual Cortex (Hubel and Wiesel)
+- **simple cells** - orientation and position
+- **complex cells** - orientation and motion
+- **hypercomplex cells** - orientation, motion, direction, length
+
+### Brain Connections
+- dorsal (where and how) - spatial location relative to viewer
+- ventral (what) - object recognition
+
+Factor | Ventral System | Dorsal System
+--- | --- | ---
+function | recognition/identification | visually guided behavior
+sensitivity | high spacial frequencies/details | high temporal frequencies/motion
+memory | long-term stored representations | very short-term storage
+speed | slow | fast
+consciousness | high | low
+frame of reference | allocentric / object-centered | egocentric / viewer-centered
+visual input | foveal/parafoveal | across retina
+monocular vision | small effects | large effects 
+
+### Opponent Process Theory
+better accounts for color aftereffects (reverse colors after images) and color blindness
+
+
 Perception is the cognitive interpretation of the environmental stimulus, once detected.  
 This is affected by not just familiarity with the stimulus, but
 - principles of organization
