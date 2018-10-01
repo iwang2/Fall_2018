@@ -400,7 +400,8 @@ When we're younger, we interact with people for information. When we're older, w
 - **sensation** - *detection* of an environmental stimulus
 - **perception** - *interpretation* of an environmental stimulus
 
-stimulus -> sensory receptors (Transduction - turned to neural signals) -> travels to brain via synapses (information processing) -> cortex (full perception)
+stimulus -> sensory receptors (transduction) -> travels to brain via synapses (information processing) -> cortex (full perception)
+- **transduction** - turning environmental stimulus to neural signals
 
 ### Transduction
 Type | Environmental Stimulus | Neural Information<br>(Action Potential)
@@ -429,11 +430,11 @@ vestibular senses | inner ear
 Taste (sweet, salty, sour, bitter, umami) and smell.
 
 ### Vestibular Senses
-- Cortex and cerebellum receive info from vestibular sense and from kinesthetic senses in muscles to maintain stability and balance
+- Cortex and cerebellum receive info to maintain stability and balance
 - semicircular canals and otolith organs
 - sensation is unconscious
 
-### Cortical PRojection Areas
+### Cortical Projection Areas
 Sense | Projection Area
 --- | ---
 vision | occipital cortex
@@ -441,7 +442,33 @@ audition | temporal
 smell | frontal/temporal
 taste | parietal
 touch | somatosensory (parietal)
-proprioception | cerebellum and somatosensory
+kinesthesis | cerebellum
+vestibular senses | somatosensory (parietal)
+
+### Audition
+1. stimuli - sound waves arrive at ear
+2. receptor steps - move through outer ear, eardum vibrates
+3. move through middle ear -> ossicles vibrate -> oval window vibrates
+4. pressure waves in inner ear fluid, bends hair cells, neurons on basilar membrane fire neural signals
+5. pathway to the brain - signals travel along auditory nerve to primary auditory cortex
+
+### Cochlear Implants
+Transmitter and receiver - receive signals from speech processors and converts them to electric signals
+
+### Psychophysics
+Quantitatively investigates the relationship between physical stimuli and the sensation they produce.
+
+#### 1. Absolute Threshold
+- minimum level of stimulus that can be detected (level where people can correctly detect 50% of the time)
+
+#### 2. Difference Threshold
+- smallest change that we can detect - Just Noticeable Difference
+- depends on stimulus intensity (not fixed)
+- **Weber's Law** - stimulus JND is a constant proportion
+
+#### 3. Signal Detection
+A decision - deciding whether a sensory event took place or not; taking into account expectations and biases of observer as well
+- d-prime - distance between N and S+N distributions; measures in standard deviations (Z-scores)
 
 ---
 ## Visual Perception
