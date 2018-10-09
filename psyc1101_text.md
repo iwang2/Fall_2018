@@ -3,10 +3,32 @@
 Chapter | Title
 --- | ---
 2 | [Methods](#methods)
-4 | [Development](#development)
+7 | [Learning](#learning)
 
 ---
-# Development
+# Learning
+### B.F. Skinner
+- utopia - no formal profession or individual belongings, share talents and benefit from others
+- wants people to have the skills to predict and control their own behavior
+- applied behavior analysis
+
+### Learning
+A relatively permanent change in behavior not due to drugs, maturation/development, injury, or disease.
+- **innate** - behaviors we are born with
+- **reflexes** - environmental event that triggers corresponding behavior; can be conditioned to other cues
+
+#### Learning Processes
+- **operant (instrumental) conditioning** - how we learn what happens when we do something
+- **social (vicarious) learning** - learning by watching others
+- **latent learning** - learning something but not showing it until there's a reason to use the new knowledge
+
+### Pavlovian (Classical) Conditioning
+Reactions that are learned in the presence of triggers (dogs and laboratory coats). 
+
+#### Stimulus
+Anything in the environment that can be detected, is measurable, and can evoke a response.
+- **unconditional stimulus** - causes an innate reflex (salivation)
+- **conditional stimulus** - causes a conditioned reflex (salivation to the ringing bell); only happens when associated with an unconditional stimulus
 
 
 ---
